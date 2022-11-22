@@ -1,4 +1,4 @@
-//Aprogram for hello world.
+//A program for hello world.
 #include <stdio.h>
 
 int main()
